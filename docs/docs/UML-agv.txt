@@ -1,0 +1,2 @@
+AGV states: [IDLE] -> [PLANNING] -> [MOVING] -> [WAITING] -> [DELIVERED]
+A* path planning per AGV; FleetManager assigns tasks
